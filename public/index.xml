@@ -9,18 +9,18 @@
     <lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:57024/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>http://localhost:57024/posts/first/</link>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57024/posts/first/</guid>
-      <description>&lt;p&gt;这是我的第一篇博客文章。&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>今日记录,开始吧</title>
       <link>http://localhost:57024/private/private-20260227/</link>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:57024/private/private-20260227/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>我的第一篇 Hugo 博客</title>
+      <link>http://localhost:57024/posts/first-hugo-post/</link>
+      <pubDate>Thu, 27 Feb 2025 14:30:00 +0800</pubDate>
+      <guid>http://localhost:57024/posts/first-hugo-post/</guid>
+      <description>这是一篇测试文章，探索 Hugo 的强大功能</description>
     </item>
   </channel>
 </rss>
