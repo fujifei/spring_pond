@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publics on My New Hugo Project</title>
+    <link>http://localhost:49605/public/</link>
+    <description>Recent content in Publics on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Feb 2026 21:44:13 +0800</lastBuildDate>
+    <atom:link href="http://localhost:49605/public/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇公开文章</title>
+      <link>http://localhost:49605/public/tech/hello/</link>
+      <pubDate>Fri, 27 Feb 2026 21:44:13 +0800</pubDate>
+      <guid>http://localhost:49605/public/tech/hello/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>我的第一篇公开文章</title>
+      <link>http://localhost:49605/public/%E6%8A%80%E6%9C%AF/hello/</link>
+      <pubDate>Fri, 27 Feb 2026 21:44:13 +0800</pubDate>
+      <guid>http://localhost:49605/public/%E6%8A%80%E6%9C%AF/hello/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>今日记录公开</title>
+      <link>http://localhost:49605/public/public-20260227/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:49605/public/public-20260227/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
